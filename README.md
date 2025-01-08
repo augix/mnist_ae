@@ -9,6 +9,8 @@ this is a simple autoencoder for mnist dataset training with pytorch lightning.
 - torchvision
 
 # How
+'''
 pip install pytorch
 pip install pytorch_lightning
 pip install torchvision
+'''
